@@ -5,5 +5,5 @@ its description and decide whether to keep the phone or delete/change the collec
 
 ![image](https://user-images.githubusercontent.com/32454890/142780051-9f5a8220-ebe2-408e-8bba-d279dcdcbb2c.png). 
 
-A screenshot of the menu diagram with each options and purpose.
+A screenshot of the menu diagram with each options and it's purpose.
 
