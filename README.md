@@ -4,5 +4,6 @@ This application allow user to add, edit and display to check the changes done b
 its description and decide whether to keep the phone or delete/change the collection of smartphones added in the app that still are used and introduced in today environment.
 
 ![image](https://user-images.githubusercontent.com/32454890/142780051-9f5a8220-ebe2-408e-8bba-d279dcdcbb2c.png). 
+
 A screenshot of the menu diagram with each options and purpose.
 
